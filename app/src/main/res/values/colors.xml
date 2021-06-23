@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B2212121</color>
+    <color name="colorPrimaryDark">#B2212121</color>
+    <color name="colorAccent">#008F24</color>
+
+    <color name="colorPrimaryNight">#FF03DAC5</color>
+    <color name="colorPrimaryDarkNight">#FF018786</color>
+
+
+    <color name="colorHighLighted">#C4C4C4</color>
+    <color name="colorBlack">#FF000000</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="toolbar_color_Control_Normal">#000000</color>
+    <color name="color_progress_bar_gray">#D4DEE7</color>
+</resources>
